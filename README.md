@@ -1,8 +1,6 @@
-# Landing CovMap Software Engineering
+# Frontpage CovMap
 
->[Figma - wireframe + design](https://www.figma.com/file/ea34xePiHbzjUb8etG9aKf/CovMap?node-id=0%3A1)
-
-## Development Checklist
+## Frontpage Checklist
 
 - Landing page
 - Dashboard
